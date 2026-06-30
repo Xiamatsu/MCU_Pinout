@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Создано Microsoft Visio, экспорт SVG PY32F002BF15T6_tssop20.svg 002BF15T6 -->
+<!-- Создано Microsoft Visio, экспорт SVG PY32F002BF15P6_tssop20.svg 002BF15T6 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="25.5464in" height="11.6488in"
 		viewBox="0 0 1839.34 838.715" xml:space="preserve" color-interpolation-filters="sRGB" class="st36">
@@ -52,7 +52,7 @@
 	</style>
 
 	<g v:mID="30" v:index="11" v:groupContext="foregroundPage">
-		<title>002BF15T6</title>
+		<title>002BF15P6</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
 				v:shadowOffsetY="-9"/>
 		<v:layer v:name="0" v:index="0" v:snap="false"/>
@@ -262,11 +262,11 @@
 			<text x="9.86" y="832.78" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO</text>		</g>
 		<g id="shape184-112" v:mID="184" v:groupContext="shape" transform="translate(772.441,-768.04)">
 			<title>Лист.184</title>
-			<desc>PY32F002BF15T6</desc>
+			<desc>PY32F002BF15P6</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="102.756" cy="830.211" width="205.52" height="17.0079"/>
 			<rect x="0" y="821.707" width="205.512" height="17.0079" class="st19"/>
-			<text x="4" y="837.41" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>PY32F002BF15T6</text>		</g>
+			<text x="4" y="837.41" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>PY32F002BF15P6</text>		</g>
 		<g id="shape196-115" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(215.433,-187.087)">
 			<title>Лист.196</title>
 			<desc>TIM14</desc>

@@ -269,15 +269,15 @@
 			<v:textRect cx="102.756" cy="830.211" width="205.52" height="17.0079"/>
 			<rect x="0" y="821.707" width="205.512" height="17.0079" class="st18"/>
 			<text x="4" y="837.41" class="st19" v:langID="1033"><v:paragraph/><v:tabList/>CW32L010F8P6</text>		</g>
-		<g id="shape196-117" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(215.433,-187.087)">
+		<g id="shape196-117" v:mID="196" v:groupContext="shape" v:layerMember="1" transform="translate(212.598,-187.087)">
 			<title>Лист.196</title>
-			<desc>BTIM</desc>
+			<desc>BTIMx3</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.3465" cy="827.377" width="56.7" height="22.6772"/>
-			<path d="M-1.65 837.2 a1.54533 0.924427 -75.03 0 0 0.691702 1.51181 L53.85 838.72 a1.54533 0.924427 -75.03 0 0 1.19806
-						 -1.51181 L58.34 817.55 a1.54533 0.924427 -75.03 0 0 -0.691702 -1.51181 L2.84 816.04 a1.54533 0.924427 -75.03
-						 0 0 -1.19806 1.51181 L-1.65 837.2 Z" class="st20"/>
-			<text x="9.1" y="832.78" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BTIM</text>		</g>
+			<v:textRect cx="31.1811" cy="827.377" width="62.37" height="22.6772"/>
+			<path d="M-1.81 837.2 A1.55741 1.00898 -71.63 0 0 -1.05 838.72 L59.23 838.72 A1.55741 1.00898 -71.63 0 0 60.55 837.2
+						 L64.17 817.55 A1.55741 1.00898 -71.63 0 0 63.41 816.04 L3.13 816.04 A1.55741 1.00898 -71.63 0 0 1.81 817.55
+						 L-1.81 837.2 Z" class="st20"/>
+			<text x="3.48" y="832.78" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BTIMx3</text>		</g>
 		<g id="shape202-120" v:mID="202" v:groupContext="shape" v:layerMember="1" transform="translate(1082.49,158.4) rotate(90)">
 			<title>Лист.202</title>
 			<path d="M0 838.72 L379.84 838.72" class="st1"/>
