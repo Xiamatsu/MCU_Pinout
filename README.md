@@ -19,3 +19,14 @@ $\Large\textbf{\color{orange}Quick Reference}$
 
 ![PY32F003F1xP6](./PinOut/PY32F003F1xP6_tssop20.svg)
 
+### -- PY32F030 --
+
+![PY32F030E1xM6](./PinOut/PY32F030E18M6_ssop24.svg)
+
+### -- PY32F002B --
+
+![PY32F002BF15P6](./PinOut/PY32F002BF15P6_tssop20.svg)
+
+### -- CW32L010 --
+
+![CW32L010F8P6](./PinOut/CW32L010F8P6_tssop20.svg)
