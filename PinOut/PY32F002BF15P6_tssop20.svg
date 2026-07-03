@@ -51,8 +51,8 @@
 	]]>
 	</style>
 
-	<g v:mID="30" v:index="11" v:groupContext="foregroundPage">
-		<title>002BF15P6</title>
+	<g v:mID="30" v:index="1" v:groupContext="foregroundPage">
+		<title>002B_F15P6</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
 				v:shadowOffsetY="-9"/>
 		<v:layer v:name="0" v:index="0" v:snap="false"/>
@@ -67,9 +67,9 @@
 			<title>Лист.766</title>
 			<path d="M0 838.72 L634.96 838.72" class="st1"/>
 		</g>
-		<g id="shape765-7" v:mID="765" v:groupContext="shape" v:layerMember="1" transform="translate(1326.61,1308.93) rotate(180)">
+		<g id="shape765-7" v:mID="765" v:groupContext="shape" v:layerMember="1" transform="translate(1410.24,1308.93) rotate(180)">
 			<title>Лист.765</title>
-			<path d="M0 838.72 L362.83 838.72" class="st1"/>
+			<path d="M0 838.72 L446.46 838.72" class="st1"/>
 		</g>
 		<g id="shape764-10" v:mID="764" v:groupContext="shape" v:layerMember="1" transform="translate(1479.69,1274.91) rotate(180)">
 			<title>Лист.764</title>
@@ -79,9 +79,9 @@
 			<title>Лист.763</title>
 			<path d="M0 838.72 L447.87 838.72" class="st1"/>
 		</g>
-		<g id="shape762-16" v:mID="762" v:groupContext="shape" v:layerMember="1" transform="translate(1411.65,1206.88) rotate(180)">
+		<g id="shape762-16" v:mID="762" v:groupContext="shape" v:layerMember="1" transform="translate(1343.62,1206.88) rotate(180)">
 			<title>Лист.762</title>
-			<path d="M0 838.72 L447.87 838.72" class="st1"/>
+			<path d="M0 838.72 L379.84 838.72" class="st1"/>
 		</g>
 		<g id="shape761-19" v:mID="761" v:groupContext="shape" v:layerMember="1" transform="translate(1339.37,1172.86) rotate(180)">
 			<title>Лист.761</title>
@@ -121,7 +121,7 @@
 		</g>
 		<g id="shape754-46" v:mID="754" v:groupContext="shape" v:layerMember="1" transform="translate(2250.37,158.4) rotate(90)">
 			<title>Лист.754</title>
-			<path d="M0 838.72 L277.8 838.72" class="st2"/>
+			<path d="M0 838.72 L315.01 838.72" class="st2"/>
 		</g>
 		<g id="shape686-49" v:mID="686" v:groupContext="shape" v:layerMember="1" transform="translate(946.432,158.4) rotate(90)">
 			<title>Лист.686</title>
@@ -1789,7 +1789,7 @@
 						 -1.13386 L52.5 822.84 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 821.71 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 837.58 Z" class="st15"/>
 			<text x="10.64" y="835.61" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3</text>		</g>
-		<g id="shape742-718" v:mID="742" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-394.016)">
+		<g id="shape742-718" v:mID="742" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-360)">
 			<title>Лист.742</title>
 			<desc>CH3</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1798,7 +1798,7 @@
 						 -1.13386 L52.5 822.84 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 821.71 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 837.58 Z" class="st15"/>
 			<text x="10.64" y="835.61" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3</text>		</g>
-		<g id="shape743-721" v:mID="743" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-462.047)">
+		<g id="shape743-721" v:mID="743" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-428.032)">
 			<title>Лист.743</title>
 			<desc>CH3N</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
@@ -1807,7 +1807,7 @@
 						 -1.13386 L52.5 822.84 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 821.71 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 837.58 Z" class="st15"/>
 			<text x="4.84" y="835.61" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3N</text>		</g>
-		<g id="shape744-724" v:mID="744" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-428.032)">
+		<g id="shape744-724" v:mID="744" v:groupContext="shape" v:layerMember="1" transform="translate(1386.14,-394.016)">
 			<title>Лист.744</title>
 			<desc>CH4</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>

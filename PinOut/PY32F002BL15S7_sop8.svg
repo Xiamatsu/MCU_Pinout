@@ -1067,13 +1067,13 @@
 			<text x="5.8" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>U1CK</text>		</g>
 		<g id="shape841-421" v:mID="841" v:groupContext="shape" v:layerMember="1" transform="translate(280.63,-351.257)">
 			<title>Лист.841</title>
-			<desc>CH4</desc>
+			<desc>CH3N</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
 			<v:textRect cx="25.5118" cy="733.831" width="51.03" height="17.0079"/>
 			<path d="M-1.48 741.2 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 742.33 a1.18052 0.816818 -67.33 0 0 1.07826
 						 -1.13386 L52.5 726.46 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 725.33 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 741.2 Z" class="st15"/>
-			<text x="10.64" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH4</text>		</g>
+			<text x="4.84" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3N</text>		</g>
 		<g id="shape842-424" v:mID="842" v:groupContext="shape" v:layerMember="1" transform="translate(620.787,-396.612)">
 			<title>Лист.842</title>
 			<desc>C1in-</desc>
@@ -1085,13 +1085,13 @@
 			<text x="6.8" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C1in-</text>		</g>
 		<g id="shape843-427" v:mID="843" v:groupContext="shape" v:layerMember="1" transform="translate(280.63,-396.612)">
 			<title>Лист.843</title>
-			<desc>CH3</desc>
+			<desc>CH4</desc>
 			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
 			<v:textRect cx="25.5118" cy="733.831" width="51.03" height="17.0079"/>
 			<path d="M-1.48 741.2 a1.18052 0.816818 -67.33 0 0 0.622531 1.13386 L48.46 742.33 a1.18052 0.816818 -67.33 0 0 1.07826
 						 -1.13386 L52.5 726.46 a1.18052 0.816818 -67.33 0 0 -0.622531 -1.13386 L2.56 725.33 a1.18052 0.816818 -67.33
 						 0 0 -1.07826 1.13386 L-1.48 741.2 Z" class="st15"/>
-			<text x="10.64" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3</text>		</g>
+			<text x="10.64" y="739.23" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CH4</text>		</g>
 		<g id="shape844-430" v:mID="844" v:groupContext="shape" v:layerMember="1" transform="translate(685.984,-617.005)">
 			<title>Лист.844</title>
 			<desc>SOP-8 ( 3.9x4.9mm e=1.27 )</desc>
