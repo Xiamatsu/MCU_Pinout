@@ -25,6 +25,8 @@ $\Large\textbf{\color{orange}Quick Reference}$
 
 ### -- PY32F002B --
 
+![PY32F002BL15S7](./PinOut/PY32F002BL15S7_sop8.svg)
+
 ![PY32F002BF15P6](./PinOut/PY32F002BF15P6_tssop20.svg)
 
 ### -- CW32L010 --
